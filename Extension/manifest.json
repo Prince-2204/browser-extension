@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "SANDIGDH Extension",
+    "version": "1.0",
+    "description": "Detects any type of Dark Pattern on commercial websites",
+    "permissions": [
+      "activeTab"
+    ],
+    "browser_action": {
+      "default_icon": {
+        "16": "TechByte.png"
+        
+      },
+      "default_title": "BoundingBox Extension",
+      "default_popup": "popup.html"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  

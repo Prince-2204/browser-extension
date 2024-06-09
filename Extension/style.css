@@ -1,0 +1,187 @@
+/* css for body */
+
+body{
+
+     
+    background-color: rgb(120, 83, 194);
+
+}
+
+/* Css for titles */
+h1{
+    margin-top: -2px;
+    margin-left: 20px;
+    text-align: center;
+    
+    color: white;
+}
+
+h4{
+    
+    color: white;
+}
+
+/* Css For all the buttons */
+#addBoundingBox{
+
+    background-color: rgb(8, 19, 82);
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+
+}
+
+
+#fakeurgency{
+    background-color: rgb(14, 32, 135);
+
+    
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-left: 10px;
+}
+
+
+#malicious{
+    background-color: rgb(18, 43, 184);
+    
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+#forced{
+    background-color: rgb(36, 65, 227);
+    
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+#fakereview{
+
+    
+    background-color: #0494fc;
+
+    
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+
+#detailed{
+
+    /* background-color: rgb(87, 212, 250); */
+    background-color: #55CEFF;
+
+    
+    border: transparent;
+    color: white;
+    border-radius: 15px;
+    height: 30px;
+    width: 180px;
+    margin-top: 5px;
+    margin-left: 10px;
+
+}
+
+/* Css for hover effect on the buttons */
+
+#fakeurgency:hover{
+    background-color: white;
+    color: black;
+    
+}
+
+
+
+
+#malicious:hover{
+    background-color: white;
+    color: black;
+    
+}
+
+
+
+#addBoundingBox:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+
+#forced:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+
+#fakereview:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+
+#detailed:hover{
+
+    background-color: white;
+    color: black;
+
+}
+
+
+/* Css for logo */
+.image{
+    display: inline-block;
+    position: absolute;
+    margin-top: -48px ;
+    margin-left: 15px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Popup Styles */
